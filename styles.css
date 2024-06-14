@@ -257,4 +257,5 @@ footer {
 footer > p {
   margin: 2rem;
   color: white;
+  text-align: center;
 }
