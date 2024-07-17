@@ -77,7 +77,6 @@ li {
   color: inherit;
   text-decoration: underline rgba(255, 255, 255, 0);
   text-underline-offset: 6px;
-  
   transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 li:active {
@@ -145,7 +144,6 @@ p {
 .projects-section {
   text-align: center;
   padding: 10rem 2rem;
-  
   background: linear-gradient(-45deg, #f2e70c /*yellow*/, #b99aed /*light purple*/, var(--main-blue), var(--main-teal));
   background-size: 400% 400%;
   animation: gradient 15s ease infinite;
@@ -222,6 +220,9 @@ h2 {
 .contact-section-header > h2 {
   font-size: 6rem;
   text-shadow: 2px 2px 1px black;
+}
+.special:hover {
+  color: var(--main-teal);
 }
 .contact-section-header > p {
   font-style: italic;
