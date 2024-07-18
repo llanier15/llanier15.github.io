@@ -223,6 +223,7 @@ h2 {
 }
 .special:hover {
   color: var(--main-teal);
+  text-shadow: 2px 2px 1px white;
 }
 .contact-section-header > p {
   font-style: italic;
