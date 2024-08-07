@@ -271,7 +271,7 @@ footer > p {
   background: linear-gradient(50deg, var(--main-teal), #fff);
   background-repeat: no-repeat;
   background-size: 80%;
-  animation: animate 4s linear infinite;
+  animation: animate 5s linear infinite;
   -webkit-background-clip: text;
   -webkit-text-fill-color: rgba(255, 255, 255, 0);
 }
